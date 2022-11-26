@@ -1,0 +1,23 @@
+{
+  "name": "temple",
+  "version": "1.0.0",
+  "description": "Temple is just another all-purpose bot with a name inspired by my computer science teacher. It can do moderation, games, utility, and other commands!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carterLAX/temple.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carterLAX/temple/issues"
+  },
+  "homepage": "https://github.com/carterLAX/temple#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}
