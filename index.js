@@ -1,3 +1,9 @@
+// const express = require('express');
+// const app = express();
+// const port = 3000;
+
+// app.get('/', (req, res) => res.send('Hello World!'));
+app.listen(port, () => console.log(`Example app listening at http://localhost:${port}`));
 const fs = require('node:fs');
 const path = require('node:path');
 const { Client, Collection, GatewayIntentBits, Events } = require('discord.js');
